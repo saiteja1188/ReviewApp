@@ -1,0 +1,34 @@
+/* Write your code here */
+/* Write your code here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  height: 100vh;
+}
+.button-arrow {
+  background-color: transparent;
+  border: none;
+}
+.carousel-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+}
+.review-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.username {
+  color: #ffffff;
+  font-weight: bold;
+  align-self: center;
+}
+.description {
+  align-self: center;
+}
